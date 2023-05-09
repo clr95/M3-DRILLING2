@@ -1,0 +1,102 @@
+body {
+  background-image: url(/ASSETS/IMG/background.jpg);
+  background-size: 100%;
+  font-family: "verdana";
+}
+
+.navbar {
+  background-color: #ababda;
+  margin-bottom: 2%;
+  color: black;
+}
+
+.navbar-brand {
+  color: #4e2bff;
+  font-weight: bold;
+  font-size: 20px;
+  font-size: x-large;
+}
+
+.nav-link {
+  color: black;
+  font-size: 18px;
+  font-size: large;
+}
+
+h1 {
+  font-size: 22px;
+  font-size: xx-large;
+  color: #f7f7f6;
+  margin-bottom: 2%;
+  margin-top: 2%;
+  margin-left: 2%;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 22px;
+  font-size: xx-large;
+  color: #00058d;
+  margin: auto 0;
+  font-weight: bold;
+  text-align: center;
+}
+
+.d-flex {
+  margin-bottom: 2%;
+  font-size: 14PX;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.card, .container {
+  margin-bottom: 2%;
+  background-color: #f7f7f6;
+  font-size: 14PX;
+  font-size: medium;
+  font-weight: bold;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.card-title {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  color: #00058d;
+  font-weight: bolder;
+  font-size: x-large;
+  margin-bottom: 3%;
+}
+
+.card-body, .list-group, .card-text, p, .inputContainer, .form-group {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: medium;
+  font-weight: lighter;
+}
+
+.card-img-top, .card-img {
+  margin: 0 auto;
+  width: 100%;
+  border: 10px;
+  border-radius: 10px;
+  height: 10rem;
+}
+
+.btn {
+  background-color: #00058d;
+  font-weight: bold;
+  font-family: "verdana";
+  color: #f7f7f6;
+}
+
+.card-footer {
+  background-color: #6490f5;
+  font-size: 12px;
+  font-size: small;
+  color: black;
+  margin-top: 10%;
+}/*# sourceMappingURL=style.css.map */
